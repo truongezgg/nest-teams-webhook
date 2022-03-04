@@ -1,6 +1,6 @@
 {
   "name": "@truongezgg/nest-teams-webhook",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Send message to Microsoft Teams chanel by webhook",
   "author": "Nguyen Duy Truong <truongezgg@gmail.com>",
   "license": "MIT",
